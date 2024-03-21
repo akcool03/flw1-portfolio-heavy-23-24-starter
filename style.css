@@ -16,13 +16,14 @@
   }
   
   body {
-    background-color: #f9d60e;
-    padding: 20px;
+    background-color: #7d60a9;
+    padding: 30px;
     font-family: Arial;
   }
+style.borderRadius:
   
   .heading{
-    background-color: #373738;
+    background-color: #0d0d12;
     color: #efeff2;
     padding: 1em;
   }
@@ -61,7 +62,7 @@
   }
   
   footer {
-    background-color: #272b30;
+    background-color: #040506;
     padding: 20px;
     color: white;
     text-align: center;

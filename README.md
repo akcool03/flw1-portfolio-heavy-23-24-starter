@@ -11,6 +11,7 @@ Create a personal portfolio using **HTML** and **CSS**. For those looking for an
 ## HTML Tasks
 
 ### All pages
+
 - [ ] 5. Update the title tags.
 - [ x ] 6. Link a CSS file to your pages.
 - [ x ] 7. Include a navbar to link pages.
